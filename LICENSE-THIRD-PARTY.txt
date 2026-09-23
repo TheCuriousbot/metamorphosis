@@ -1,0 +1,7 @@
+Third-party reference implementation
+
+repositoryfiles/Nodularity
+https://github.com/repositoryfiles/Nodularity
+License: MIT (as identified by the public repository)
+
+V5 does not reproduce the full upstream program; it implements the same publicly documented baseline concepts (Otsu thresholding, contour selection, border exclusion, Feret/roundness and ISO/JIS nodularity calculation) and adds its own web application/reporting code.
